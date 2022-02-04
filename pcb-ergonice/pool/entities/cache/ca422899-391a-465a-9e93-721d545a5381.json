@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "988b1625-7e40-4368-8cb5-264d355679ca": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b5ae0856-066b-4898-8b94-732015759a99"
+        }
+    },
+    "manufacturer": "",
+    "name": "TRRS audio jack",
+    "prefix": "J",
+    "tags": [
+        "audio",
+        "connector",
+        "jack",
+        "stereo"
+    ],
+    "type": "entity",
+    "uuid": "ca422899-391a-465a-9e93-721d545a5381"
+}

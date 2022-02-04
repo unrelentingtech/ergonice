@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "Generic Pin header 1×3, 2.54mm pitch, vertical angled"
+    ],
+    "base": "9103c334-3f16-47e9-ab2b-a9700763c47f",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": false,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "d759022f-11da-401c-8989-325db71f33d8",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1d5c1aa8-905b-492c-9411-0b0d403eedce",
+    "value": [
+        true,
+        "Generic Pin header 1×3, 2.54mm pitch, vertical"
+    ]
+}

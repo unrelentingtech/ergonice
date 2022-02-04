@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "PJ313B"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "3.5mm stereo phone jack with mic (TRRS)"
+    ],
+    "entity": "ca422899-391a-465a-9e93-721d545a5381",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Wenzhou QingPu Electronics Co."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "6f1e7ac5-be36-4946-96ec-bf8b5c634d11",
+    "pad_map": {
+        "514e5a24-a8b5-45a6-b31d-9cc4e3cdbbc8": {
+            "gate": "988b1625-7e40-4368-8cb5-264d355679ca",
+            "pin": "514988b1-f761-4486-9b8e-576318d80871"
+        },
+        "9e61645b-6977-4bb7-a0ba-a47ee1563d48": {
+            "gate": "988b1625-7e40-4368-8cb5-264d355679ca",
+            "pin": "a44b231f-0461-4447-9fd5-4b91bce0f998"
+        },
+        "ae81fad3-046c-409a-8fe9-1ab6aafdfbe3": {
+            "gate": "988b1625-7e40-4368-8cb5-264d355679ca",
+            "pin": "2269ba76-fb21-4df8-a4c9-fb6cfb87f076"
+        },
+        "bd55b261-a515-4eb5-81bf-35b31e20c96b": {
+            "gate": "988b1625-7e40-4368-8cb5-264d355679ca",
+            "pin": "2269ba76-fb21-4df8-a4c9-fb6cfb87f076"
+        },
+        "c7529e7f-1973-4183-ae41-b85c96b77407": {
+            "gate": "988b1625-7e40-4368-8cb5-264d355679ca",
+            "pin": "514988b1-f761-4486-9b8e-576318d80871"
+        },
+        "f3d3aca4-4d91-461a-b378-d2d1699a637a": {
+            "gate": "988b1625-7e40-4368-8cb5-264d355679ca",
+            "pin": "a13d25be-171e-44db-917a-5b5249010ae0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "3.5mm",
+        "connector",
+        "jack",
+        "phone",
+        "stereo"
+    ],
+    "type": "part",
+    "uuid": "b55e77a2-1d7c-4a49-a413-bc973fc20eb5",
+    "value": [
+        false,
+        ""
+    ]
+}

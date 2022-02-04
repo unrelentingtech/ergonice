@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "Cherry MX compatible switch"
+    ],
+    "datasheet": [
+        false,
+        "https://media.digikey.com/PDF/Data%20Sheets/Cherry%20PDFs/MX%20Series.pdf"
+    ],
+    "description": [
+        false,
+        "Mechanical keyboard keyswitch"
+    ],
+    "entity": "09952b1f-1221-48ad-896c-4481914e3af2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "245b49cf-79a9-4c6f-8bcb-f8d0726741fc",
+    "package": "c4879d39-89fe-4462-81b2-b058d050269a",
+    "pad_map": {
+        "24e13449-3508-4a74-a89c-788135524be1": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        },
+        "94b6a191-b137-40b3-9556-8f5a576121e2": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "738cccd4-b123-4ebe-a851-ffaed3e30ae3",
+    "value": [
+        false,
+        ""
+    ]
+}

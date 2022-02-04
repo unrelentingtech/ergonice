@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "Spring Loaded Pogo Pin Connector 4 Pin 2 Magnet"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "pogO"
+    ],
+    "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Shenzhen Weilichuang Electronic Co., Ltd"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "cec7aa6f-c14e-48e4-b2a4-caa161ca0c0e",
+    "pad_map": {
+        "00c8b0d4-a07d-484a-a8d1-63ed1b74d6ef": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "10d244ae-d178-494c-a43b-803ba9d96957": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "17da37d0-a094-41f6-ad65-188e759c8554": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "38360fb7-a4f3-42eb-ad50-70add28afb0a": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "79d85bc2-2e0e-4a55-963e-c2f0cb4c5086",
+    "value": [
+        false,
+        ""
+    ]
+}

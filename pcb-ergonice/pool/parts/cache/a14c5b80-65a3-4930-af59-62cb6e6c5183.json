@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "1N4148W"
+    ],
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/BAV16W_1N4148W.pdf"
+    ],
+    "description": [
+        false,
+        "100V 1.25V @ 150mA SOD-123 Diode"
+    ],
+    "entity": "c44a773c-cdf5-4193-b5be-ab54952f3f28",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "ab69a6c2-dd3e-4db4-964a-f18f80f5abdc",
+    "orderable_MPNs": {
+        "28a2158b-e59f-40a0-a8af-e7e56efcc583": "BAV16W-7-F",
+        "a3511873-812d-4e8a-95e9-4ccd5417d5f3": "1N4148W-7-F",
+        "cfdacbf6-9c73-4791-9cb9-b2ffdd791043": "1N4148W-13-F"
+    },
+    "package": "226c3c69-79aa-4e87-8eea-51463ac9f278",
+    "pad_map": {
+        "8133a3f5-6d99-4dc4-a354-b6c84ef34797": {
+            "gate": "e5da453c-ba97-4fa0-8e05-5f6b4e026f87",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        },
+        "c65252bd-3d5d-4ec5-b5a4-0db825f07a51": {
+            "gate": "e5da453c-ba97-4fa0-8e05-5f6b4e026f87",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "sod-123"
+    ],
+    "type": "part",
+    "uuid": "a14c5b80-65a3-4930-af59-62cb6e6c5183",
+    "value": [
+        false,
+        ""
+    ]
+}

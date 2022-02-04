@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "XC6206P332MR"
+    ],
+    "base": "dd3331c5-8ffd-47c2-848b-38eadf7fb790",
+    "datasheet": [
+        true,
+        "https://www.torexsemi.com/file/xc6206/XC6206.pdf"
+    ],
+    "description": [
+        false,
+        "3.3 V 200 mA Low-Dropout Fixed Regulator"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Torex Semiconductor"
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "orderable_MPNs": {
+        "c09efab0-8349-4fd8-b75a-6119945c4cb8": "XC6206P332MR"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "9f920c96-b831-4eed-a432-fd4295252a05",
+    "value": [
+        false,
+        ""
+    ]
+}

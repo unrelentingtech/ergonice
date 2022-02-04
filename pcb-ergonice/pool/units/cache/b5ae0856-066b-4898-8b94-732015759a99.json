@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "TRRS audio jack",
+    "pins": {
+        "2269ba76-fb21-4df8-a4c9-fb6cfb87f076": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "S",
+            "swap_group": 0
+        },
+        "514988b1-f761-4486-9b8e-576318d80871": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "T",
+            "swap_group": 0
+        },
+        "a13d25be-171e-44db-917a-5b5249010ae0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "R1",
+            "swap_group": 0
+        },
+        "a44b231f-0461-4447-9fd5-4b91bce0f998": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "R2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b5ae0856-066b-4898-8b94-732015759a99"
+}

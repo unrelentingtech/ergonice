@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "TH resistor lol"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "whatevs"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "e38e9926-eb2c-46d6-85d4-ed9d2bf332dd",
+    "package": "1dd5db4d-6201-4210-809d-49ece8a67e7e",
+    "pad_map": {
+        "368753ea-f907-4d83-a5d9-0656a9d59bc4": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "abd4ede2-59d6-4eba-a86c-c45dcc3911f7": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "e604dcc9-0cca-4ef5-b393-af878269df07",
+    "value": [
+        false,
+        ""
+    ]
+}

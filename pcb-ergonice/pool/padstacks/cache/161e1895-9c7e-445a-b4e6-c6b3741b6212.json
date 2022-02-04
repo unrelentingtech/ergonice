@@ -1,0 +1,190 @@
+{
+    "holes": {
+        "32d8880a-46c5-4a2d-a3a3-8a8aab7a38a3": {
+            "diameter": 1400000,
+            "length": 500000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1600000,
+                    0
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        }
+    },
+    "name": "TH round with SMD rectangular",
+    "padstack_type": "through",
+    "parameter_program": "get-parameter [ hole_diameter ] dup\nset-hole [ hole round ]\n\nget-parameter [ pad_diameter ] dup\nset-shape [ th_copper circle ]\n\nget-parameter [ solder_mask_expansion ] 2 * +\nset-shape [ th_mask circle ] \n\nget-parameter [ pad_width ]\nget-parameter [ pad_height ]\ndupc dupc\nset-shape [ pad rectangle ]\nget-parameter [ solder_mask_expansion ] 2 * +xy\nset-shape [ smd_mask rectangle ]\n\nget-parameter [ paste_mask_contraction ] 2 * -xy\nset-shape [ paste rectangle ]\n\nget-parameter [ pad_diameter ]\nget-parameter [ pad_width ] +\nget-parameter [ pad_height ] 2 /\nset-shape [ bridge rectangle ]\n\nget-parameter [ pad_width ]\nget-parameter [ pad_diameter ] + 2 /\ndup 0mm set-shape [ smd_mask position ]\ndup 0mm set-shape [ paste position ]\ndup 0mm set-shape [ pad position ]\n\ndup chs 0mm set-hole [ hole position ]\ndup chs 0mm set-shape [ th_mask position ]\ndup chs 0mm set-shape [ th_copper position ]",
+    "parameter_set": {
+        "hole_diameter": 1400000,
+        "pad_diameter": 1600000,
+        "pad_height": 1200000,
+        "pad_width": 1600000,
+        "paste_mask_contraction": 0,
+        "solder_mask_expansion": 100000
+    },
+    "parameters_required": [
+        "pad_width",
+        "pad_height",
+        "pad_diameter",
+        "hole_diameter"
+    ],
+    "polygons": {},
+    "shapes": {
+        "0b6178e9-2f29-468d-b9d7-65f2d89e92bf": {
+            "form": "rectangle",
+            "layer": 0,
+            "parameter_class": "bridge",
+            "params": [
+                3200000,
+                600000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "0e8dc031-21db-48bf-9e86-4bf579c66174": {
+            "form": "circle",
+            "layer": -100,
+            "parameter_class": "th_copper",
+            "params": [
+                1600000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1600000,
+                    0
+                ]
+            }
+        },
+        "0ff34686-9d1d-4535-bed2-3e01e0a7c23f": {
+            "form": "circle",
+            "layer": 0,
+            "parameter_class": "th_copper",
+            "params": [
+                1600000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1600000,
+                    0
+                ]
+            }
+        },
+        "14169191-703b-4364-b8e3-4a1c90d22cbd": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "paste",
+            "params": [
+                1600000,
+                1200000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1600000,
+                    0
+                ]
+            }
+        },
+        "55a7ce0e-b866-497e-a31a-a104046c6d6b": {
+            "form": "circle",
+            "layer": 10,
+            "parameter_class": "th_mask",
+            "params": [
+                1800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1600000,
+                    0
+                ]
+            }
+        },
+        "9a5738d8-6e14-4562-8e44-0ce2a9108caf": {
+            "form": "circle",
+            "layer": -110,
+            "parameter_class": "th_mask",
+            "params": [
+                1800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1600000,
+                    0
+                ]
+            }
+        },
+        "e15c4dfb-5ddd-4722-83d5-024758a60c87": {
+            "form": "circle",
+            "layer": -1,
+            "parameter_class": "th_copper",
+            "params": [
+                1600000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1600000,
+                    0
+                ]
+            }
+        },
+        "e73ef8eb-d294-4d22-97ae-430ed0c112bc": {
+            "form": "rectangle",
+            "layer": 0,
+            "parameter_class": "pad",
+            "params": [
+                1600000,
+                1200000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1600000,
+                    0
+                ]
+            }
+        },
+        "fd0f8ce2-96ae-46b4-981b-c8063a8bcbf8": {
+            "form": "rectangle",
+            "layer": 10,
+            "parameter_class": "smd_mask",
+            "params": [
+                1800000,
+                1400000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    1600000,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "161e1895-9c7e-445a-b4e6-c6b3741b6212",
+    "well_known_name": ""
+}
