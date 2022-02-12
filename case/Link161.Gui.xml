@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD ViewProvider -->
+<Document SchemaVersion="1" FileVersion="2">
+<ViewProvider name="Link161" expanded="0" Extensions="True">
+  <Extensions Count="1">
+    <Extension type="Gui::ViewProviderLinkObserver" name="ViewProviderLinkObserver">
+    </Extension>
+  </Extensions>
+  <Properties Count="17" TransientCount="0">
+    <Property name="ChildViewProvider" type="App::PropertyPersistentObject" status="9">
+      <String value=""/>
+      <PersistentObject>
+      </PersistentObject>
+    </Property>
+    <Property name="DisplayMode" type="App::PropertyEnumeration" status="9">
+      <Integer value="0"/>
+    </Property>
+    <Property name="DrawStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="LineWidth" type="App::PropertyFloatConstraint" status="1">
+      <Float value="1"/>
+    </Property>
+    <Property name="MaterialList" type="App::PropertyMaterialList" status="65">
+      <MaterialList file=""/>
+    </Property>
+    <Property name="OnTopWhenSelected" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="OverrideColorList" type="App::PropertyColorList" status="1">
+      <ColorList file=""/>
+    </Property>
+    <Property name="OverrideMaterial" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="OverrideMaterialList" type="App::PropertyBoolList" status="1">
+      <BoolList value=""/>
+    </Property>
+    <Property name="PointSize" type="App::PropertyFloatConstraint" status="1">
+      <Float value="1"/>
+    </Property>
+    <Property name="ResetClipPlane" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Selectable" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="SelectionStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShadowStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShapeMaterial" type="App::PropertyMaterial" status="33">
+      <PropertyMaterial ambientColor="858993408" diffuseColor="1728053247" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0"/>
+    </Property>
+    <Property name="ShowInTree" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+  </Properties>
+</ViewProvider>
+</Document>

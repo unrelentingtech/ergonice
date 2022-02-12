@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD ViewProvider -->
+<Document SchemaVersion="1" FileVersion="2">
+<ViewProvider name="Group004" expanded="0" Extensions="True">
+  <Extensions Count="2">
+    <Extension type="Gui::ViewProviderGroupExtension" name="ViewProviderGroupExtension">
+    </Extension>
+    <Extension type="Gui::ViewProviderLinkObserver" name="ViewProviderLinkObserver">
+    </Extension>
+  </Extensions>
+  <Properties Count="8" TransientCount="0">
+    <Property name="DisplayMode" type="App::PropertyEnumeration" status="1">
+      <Integer value="-1"/>
+    </Property>
+    <Property name="OnTopWhenSelected" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ResetClipPlane" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Selectable" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="SelectionStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="1"/>
+    </Property>
+    <Property name="ShadowStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShowInTree" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+  </Properties>
+</ViewProvider>
+</Document>

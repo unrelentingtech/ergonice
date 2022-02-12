@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD ViewProvider -->
+<Document SchemaVersion="1" FileVersion="2">
+<ViewProvider name="Origin" expanded="0" Extensions="True">
+  <Extensions Count="1">
+    <Extension type="Gui::ViewProviderLinkObserver" name="ViewProviderLinkObserver">
+    </Extension>
+  </Extensions>
+  <Properties Count="10" TransientCount="0">
+    <Property name="DisplayMode" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="Margin" type="App::PropertyVector" status="1">
+      <PropertyVector valueX="2" valueY="2" valueZ="2"/>
+    </Property>
+    <Property name="OnTopWhenSelected" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ResetClipPlane" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Selectable" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="SelectionStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShadowStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShowInTree" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Size" type="App::PropertyVector" status="5">
+      <PropertyVector valueX="25" valueY="25" valueZ="25"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+  </Properties>
+</ViewProvider>
+</Document>

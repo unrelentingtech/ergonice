@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="Group005" Extensions="True">
+  <Extensions Count="1">
+    <Extension type="App::GroupExtension" name="GroupExtension">
+    </Extension>
+  </Extensions>
+  <Properties Count="9" TransientCount="1">
+    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663296"/>
+    <Property name="ExportMode" type="App::PropertyEnumeration">
+      <Integer value="1"/>
+    </Property>
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="Group" type="App::PropertyLinkList">
+      <LinkList count="2">
+        <Link value="Part153"/>
+        <Link value="Part154"/>
+      </LinkList>
+    </Property>
+    <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200960">
+      <Map count="0">
+      </Map>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="Right Connectors"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="128">
+      <String value=""/>
+    </Property>
+    <Property name="TreeRank" type="App::PropertyInteger" status="2184">
+      <Integer value="2717"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="true"/>
+    </Property>
+    <Property name="_GroupVersion" type="App::PropertyInteger" status="218103808">
+      <Integer value="1"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="Part097" Extensions="True">
+  <Extensions Count="1">
+    <Extension type="App::OriginGroupExtension" name="OriginGroupExtension">
+    </Extension>
+  </Extensions>
+  <Properties Count="19" TransientCount="2">
+    <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
+    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663296"/>
+    <Property name="ColoredElements" type="App::PropertyLinkSubHidden" status="83886080">
+      <LinkSub value="" count="0">
+      </LinkSub>
+    </Property>
+    <Property name="ExportMode" type="App::PropertyEnumeration">
+      <Integer value="1"/>
+    </Property>
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="Group" type="App::PropertyLinkList">
+      <LinkList count="1">
+        <Link value="Link017"/>
+      </LinkList>
+    </Property>
+    <Property name="Id" type="App::PropertyString">
+      <String value=""/>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="S19"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="128">
+      <String value=""/>
+    </Property>
+    <Property name="License" type="App::PropertyString">
+      <String value=""/>
+    </Property>
+    <Property name="LicenseURL" type="App::PropertyString">
+      <String value=""/>
+    </Property>
+    <Property name="Material" type="App::PropertyMap">
+      <Map count="0">
+      </Map>
+    </Property>
+    <Property name="Meta" type="App::PropertyMap">
+      <Map count="0">
+      </Map>
+    </Property>
+    <Property name="Origin" type="App::PropertyLink" status="67108864">
+      <Link value="Origin097"/>
+    </Property>
+    <Property name="Placement" type="App::PropertyPlacement" status="8388608">
+      <PropertyPlacement Px="-85.72499999999999" Py="41.8615" Pz="6.45" Q0="0.7071067811865477" Q1="0" Q2="0" Q3="0.7071067811865474" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
+    </Property>
+    <Property name="TreeRank" type="App::PropertyInteger" status="2184">
+      <Integer value="921"/>
+    </Property>
+    <Property name="Type" type="App::PropertyString">
+      <String value=""/>
+    </Property>
+    <Property name="Uid" type="App::PropertyUUID">
+      <Uuid value="dff315a5-bdc8-4a18-a526-a3a427c4866d"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="true"/>
+    </Property>
+    <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
+      <LinkList count="1">
+        <Link value="Link017"/>
+      </LinkList>
+    </Property>
+    <Property name="_GroupVersion" type="App::PropertyInteger" status="218103808">
+      <Integer value="1"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>

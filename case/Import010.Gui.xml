@@ -1,0 +1,910 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD ViewProvider -->
+<Document SchemaVersion="1" FileVersion="2">
+<ViewProvider name="Import010" expanded="0" Extensions="True">
+  <Extensions Count="1">
+    <Extension type="Gui::ViewProviderLinkObserver" name="ViewProviderLinkObserver">
+    </Extension>
+  </Extensions>
+  <Properties Count="32" TransientCount="0">
+    <Property name="AngularDeflection" type="App::PropertyAngle" status="1">
+      <Float value="28.65"/>
+    </Property>
+    <Property name="BoundingBox" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Deviation" type="App::PropertyFloatConstraint" status="1">
+      <Float value="0.2"/>
+    </Property>
+    <Property name="DiffuseColor" type="App::PropertyColorList" status="1">
+      <ColorList count="797" >
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+99
+      </ColorList>
+    </Property>
+    <Property name="DisplayMode" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="DrawStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ForceMapColors" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Lighting" type="App::PropertyEnumeration" status="1">
+      <Integer value="1"/>
+    </Property>
+    <Property name="LineColor" type="App::PropertyColor" status="1">
+      <PropertyColor value="4292280473"/>
+    </Property>
+    <Property name="LineColorArray" type="App::PropertyColorList" status="1">
+      <ColorList count="1" >
+ffd70099
+      </ColorList>
+    </Property>
+    <Property name="LineMaterial" type="App::PropertyMaterial" status="33">
+      <PropertyMaterial ambientColor="858993408" diffuseColor="4292280473" specularColor="0" emissiveColor="0" shininess="1" transparency="0"/>
+    </Property>
+    <Property name="LineWidth" type="App::PropertyFloatConstraint" status="1">
+      <Float value="1"/>
+    </Property>
+    <Property name="MapFaceColor" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="MapLineColor" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="MapPointColor" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="MapTransparency" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="MappedColors" type="App::PropertyColorList" status="83886081">
+      <ColorList file=""/>
+    </Property>
+    <Property name="OnTopWhenSelected" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="PointColor" type="App::PropertyColor" status="1">
+      <PropertyColor value="4292280473"/>
+    </Property>
+    <Property name="PointColorArray" type="App::PropertyColorList" status="1">
+      <ColorList count="1" >
+ffd70099
+      </ColorList>
+    </Property>
+    <Property name="PointMaterial" type="App::PropertyMaterial" status="33">
+      <PropertyMaterial ambientColor="858993408" diffuseColor="4292280473" specularColor="0" emissiveColor="0" shininess="1" transparency="0"/>
+    </Property>
+    <Property name="PointSize" type="App::PropertyFloatConstraint" status="1">
+      <Float value="2"/>
+    </Property>
+    <Property name="ResetClipPlane" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Selectable" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="SelectionStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShadowStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShapeColor" type="App::PropertyColor" status="1">
+      <PropertyColor value="4292280473"/>
+    </Property>
+    <Property name="ShapeMaterial" type="App::PropertyMaterial" status="33">
+      <PropertyMaterial ambientColor="858993408" diffuseColor="1836416768" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0.6000000238418579"/>
+    </Property>
+    <Property name="ShowInTree" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Transparency" type="App::PropertyPercent" status="1">
+      <Integer value="60"/>
+    </Property>
+    <Property name="UseBinderStyle" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+  </Properties>
+</ViewProvider>
+</Document>

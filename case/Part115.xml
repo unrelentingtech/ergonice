@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="Part115" Extensions="True">
+  <Extensions Count="1">
+    <Extension type="App::OriginGroupExtension" name="OriginGroupExtension">
+    </Extension>
+  </Extensions>
+  <Properties Count="19" TransientCount="2">
+    <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
+    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663296"/>
+    <Property name="ColoredElements" type="App::PropertyLinkSubHidden" status="83886080">
+      <LinkSub value="" count="0">
+      </LinkSub>
+    </Property>
+    <Property name="ExportMode" type="App::PropertyEnumeration">
+      <Integer value="1"/>
+    </Property>
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="Group" type="App::PropertyLinkList">
+      <LinkList count="129">
+        <Link value="Solid"/>
+        <Link value="Part"/>
+        <Link value="Part001"/>
+        <Link value="Part002"/>
+        <Link value="Part003"/>
+        <Link value="Part004"/>
+        <Link value="Part005"/>
+        <Link value="Part006"/>
+        <Link value="Part007"/>
+        <Link value="Part008"/>
+        <Link value="Part009"/>
+        <Link value="Part010"/>
+        <Link value="Part011"/>
+        <Link value="Part012"/>
+        <Link value="Part013"/>
+        <Link value="Part014"/>
+        <Link value="Part015"/>
+        <Link value="Part016"/>
+        <Link value="Part017"/>
+        <Link value="Part018"/>
+        <Link value="Part019"/>
+        <Link value="Part020"/>
+        <Link value="Part021"/>
+        <Link value="Part022"/>
+        <Link value="Part023"/>
+        <Link value="Part024"/>
+        <Link value="Part025"/>
+        <Link value="Part026"/>
+        <Link value="Part027"/>
+        <Link value="Part028"/>
+        <Link value="Part029"/>
+        <Link value="Part030"/>
+        <Link value="Part031"/>
+        <Link value="Part032"/>
+        <Link value="Part033"/>
+        <Link value="Part034"/>
+        <Link value="Part035"/>
+        <Link value="Part036"/>
+        <Link value="Part037"/>
+        <Link value="Part038"/>
+        <Link value="Part039"/>
+        <Link value="Part040"/>
+        <Link value="Part041"/>
+        <Link value="Part042"/>
+        <Link value="Part043"/>
+        <Link value="Part044"/>
+        <Link value="Part045"/>
+        <Link value="Part046"/>
+        <Link value="Part047"/>
+        <Link value="Part048"/>
+        <Link value="Part051"/>
+        <Link value="Part052"/>
+        <Link value="Part053"/>
+        <Link value="Part054"/>
+        <Link value="Part055"/>
+        <Link value="Part056"/>
+        <Link value="Part057"/>
+        <Link value="Part058"/>
+        <Link value="Part059"/>
+        <Link value="Part060"/>
+        <Link value="Part061"/>
+        <Link value="Part062"/>
+        <Link value="Part063"/>
+        <Link value="Part064"/>
+        <Link value="Part065"/>
+        <Link value="Part066"/>
+        <Link value="Part067"/>
+        <Link value="Part068"/>
+        <Link value="Part069"/>
+        <Link value="Part070"/>
+        <Link value="Part071"/>
+        <Link value="Part072"/>
+        <Link value="Part073"/>
+        <Link value="Part074"/>
+        <Link value="Part075"/>
+        <Link value="Part076"/>
+        <Link value="Part077"/>
+        <Link value="Part078"/>
+        <Link value="Part079"/>
+        <Link value="Part080"/>
+        <Link value="Part081"/>
+        <Link value="Part082"/>
+        <Link value="Part083"/>
+        <Link value="Part084"/>
+        <Link value="Part085"/>
+        <Link value="Part086"/>
+        <Link value="Part087"/>
+        <Link value="Part088"/>
+        <Link value="Part089"/>
+        <Link value="Part090"/>
+        <Link value="Part091"/>
+        <Link value="Part092"/>
+        <Link value="Part093"/>
+        <Link value="Part094"/>
+        <Link value="Part095"/>
+        <Link value="Part096"/>
+        <Link value="Part097"/>
+        <Link value="Part098"/>
+        <Link value="Part099"/>
+        <Link value="Part100"/>
+        <Link value="Part101"/>
+        <Link value="Part102"/>
+        <Link value="Part103"/>
+        <Link value="Part104"/>
+        <Link value="Part105"/>
+        <Link value="Part106"/>
+        <Link value="Part107"/>
+        <Link value="Part108"/>
+        <Link value="Part109"/>
+        <Link value="Part110"/>
+        <Link value="Part111"/>
+        <Link value="Group"/>
+        <Link value="Group001"/>
+        <Link value="Group002"/>
+        <Link value="Part112"/>
+        <Link value="Part113"/>
+        <Link value="Part114"/>
+        <Link value="Body"/>
+        <Link value="Body001"/>
+        <Link value="Screw001"/>
+        <Link value="Screw002"/>
+        <Link value="Screw003"/>
+        <Link value="Screw004"/>
+        <Link value="Screw005"/>
+        <Link value="Screw006"/>
+        <Link value="Screw007"/>
+        <Link value="Screw008"/>
+        <Link value="Screw"/>
+        <Link value="Group006"/>
+      </LinkList>
+    </Property>
+    <Property name="Id" type="App::PropertyString">
+      <String value=""/>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="Left Half"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="128">
+      <String value=""/>
+    </Property>
+    <Property name="License" type="App::PropertyString">
+      <String value=""/>
+    </Property>
+    <Property name="LicenseURL" type="App::PropertyString">
+      <String value=""/>
+    </Property>
+    <Property name="Material" type="App::PropertyMap">
+      <Map count="0">
+      </Map>
+    </Property>
+    <Property name="Meta" type="App::PropertyMap">
+      <Map count="0">
+      </Map>
+    </Property>
+    <Property name="Origin" type="App::PropertyLink" status="67108864">
+      <Link value="Origin115"/>
+    </Property>
+    <Property name="Placement" type="App::PropertyPlacement" status="8388608">
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0" Q1="0" Q2="0" Q3="1" A="0" Ox="0" Oy="0" Oz="1"/>
+    </Property>
+    <Property name="TreeRank" type="App::PropertyInteger" status="2184">
+      <Integer value="2794"/>
+    </Property>
+    <Property name="Type" type="App::PropertyString">
+      <String value=""/>
+    </Property>
+    <Property name="Uid" type="App::PropertyUUID">
+      <Uuid value="0961cb8c-8b49-4d65-98fb-1249a8a9da40"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="true"/>
+    </Property>
+    <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
+      <LinkList count="8">
+        <Link value="Solid"/>
+        <Link value="Part111"/>
+        <Link value="Group"/>
+        <Link value="Group001"/>
+        <Link value="Group002"/>
+        <Link value="Body"/>
+        <Link value="Body001"/>
+        <Link value="Group006"/>
+      </LinkList>
+    </Property>
+    <Property name="_GroupVersion" type="App::PropertyInteger" status="218103808">
+      <Integer value="1"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>

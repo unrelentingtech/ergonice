@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD ViewProvider -->
+<Document SchemaVersion="1" FileVersion="2">
+<ViewProvider name="Part044" expanded="0" Extensions="True">
+  <Extensions Count="2">
+    <Extension type="Gui::ViewProviderOriginGroupExtension" name="ViewProviderOriginGroupExtension">
+    </Extension>
+    <Extension type="Gui::ViewProviderLinkObserver" name="ViewProviderLinkObserver">
+    </Extension>
+  </Extensions>
+  <Properties Count="14" TransientCount="0">
+    <Property name="BoundingBox" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="DisplayMode" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="OnTopWhenSelected" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="OverrideColorList" type="App::PropertyColorList" status="1">
+      <ColorList file=""/>
+    </Property>
+    <Property name="OverrideMaterial" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="ResetClipPlane" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Selectable" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="SelectionStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShadowStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShapeColor" type="App::PropertyColor" status="1">
+      <PropertyColor value="1836416768"/>
+    </Property>
+    <Property name="ShapeMaterial" type="App::PropertyMaterial" status="33">
+      <PropertyMaterial ambientColor="858993408" diffuseColor="1836416768" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0"/>
+    </Property>
+    <Property name="ShowInTree" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Transparency" type="App::PropertyPercent" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+  </Properties>
+</ViewProvider>
+</Document>
