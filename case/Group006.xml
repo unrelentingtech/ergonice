@@ -7,14 +7,14 @@
     </Extension>
   </Extensions>
   <Properties Count="9" TransientCount="1">
-    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663296"/>
+    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663297"/>
     <Property name="ExportMode" type="App::PropertyEnumeration">
       <Integer value="1"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
-    <Property name="Group" type="App::PropertyLinkList">
+    <Property name="Group" type="App::PropertyLinkList" status="1">
       <LinkList count="9">
         <Link value="Screw"/>
         <Link value="Screw001"/>
@@ -27,7 +27,7 @@
         <Link value="Screw008"/>
       </LinkList>
     </Property>
-    <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200960">
+    <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200961">
       <Map count="0">
       </Map>
     </Property>

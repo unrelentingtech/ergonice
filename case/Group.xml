@@ -7,7 +7,7 @@
     </Extension>
   </Extensions>
   <Properties Count="9" TransientCount="1">
-    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663296"/>
+    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663297"/>
     <Property name="ExportMode" type="App::PropertyEnumeration">
       <Integer value="1"/>
     </Property>
@@ -63,7 +63,7 @@
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="2712"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="true"/>
     </Property>
     <Property name="_GroupVersion" type="App::PropertyInteger" status="218103808">

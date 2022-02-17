@@ -8,17 +8,17 @@
   <Expand name="Part115"/>
 </Expand>
 >
-  <Camera extra="0" id="4" binding="0">
+  <Camera extra="0" id="2" binding="0">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position -6.8804588 -0.79107666 4.5533028
-  orientation -0.77727419 -0.3257781 -0.53825045  5.0839982
-  nearDistance -810.65375
-  farDistance 777.9776
+  position 5.1724358 -29.270416 36.614594
+  orientation -0.88645524 -0.33556166 -0.3187412  5.1961374
+  nearDistance -762.66846
+  farDistance 816.28876
   aspectRatio 1
   focalDistance 110.95764
-  height 234.42906
+  height 234.43011
 
 }
 ## overrideMode: Shadow]]>
