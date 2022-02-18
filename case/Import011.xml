@@ -17180,7 +17180,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="1668">
 <![CDATA[
-111 PostfixCount 18
+112 PostfixCount 18
 Edge
 Face
 Vertex
@@ -17202,7 +17202,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 95 3
+ElementMap 1 96 3
 
 Edge
 
@@ -18895,7 +18895,7 @@ $#bca6.a 0
 
 EndMap
 
-ElementMap 2 111 3
+ElementMap 2 112 3
 
 Edge
 

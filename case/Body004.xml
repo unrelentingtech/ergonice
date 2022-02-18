@@ -25,7 +25,7 @@
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
-    <Property name="Group" type="App::PropertyLinkList" status="1">
+    <Property name="Group" type="App::PropertyLinkList">
       <LinkList count="6">
         <Link value="Import016"/>
         <Link value="Sketch021"/>
@@ -205,7 +205,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +35 6 *
 Ve
 1e-07
@@ -238,7 +238,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +30 0 *
 Ve
 1e-07
@@ -271,7 +271,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +25 0 *
 Wi
 
@@ -313,7 +313,7 @@ Wi
 Fa
 0  1e-07 4 14
 
-0111000
+0101000
 +23 15 +18 0 *
 Wi
 
@@ -322,7 +322,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 +16 21 *
 Ve
 1e-07
@@ -369,7 +369,7 @@ Wi
 Fa
 0  1e-07 6 0
 
-0111000
+0101000
 +9 0 *
 Ed
  1e-07 1 1 0
@@ -385,7 +385,7 @@ Wi
 Fa
 0  1e-07 7 0
 
-0111000
+0101000
 +6 0 *
 Wi
 
@@ -394,7 +394,7 @@ Wi
 Fa
 0  1e-07 8 0
 
-0111000
+0101000
 +4 28 *
 Sh
 
@@ -402,7 +402,7 @@ Sh
 -34 5 -29 0 +24 0 -17 4 +15 13 +8 4 +5 4 -3 27 *
 So
 
-1100000
+0100000
 +2 0 *
 
 +1 1 ]]>
@@ -410,7 +410,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="29">
 <![CDATA[
-136 PostfixCount 14
+138 PostfixCount 14
 Edge
 Face
 Vertex
@@ -428,7 +428,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 137 3
+ElementMap 1 139 3
 
 Edge
 
@@ -482,7 +482,7 @@ $#e92a.4 0
 
 EndMap
 
-ElementMap 2 136 3
+ElementMap 2 138 3
 
 Edge
 

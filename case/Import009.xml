@@ -824,7 +824,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="86">
 <![CDATA[
-105 PostfixCount 11
+106 PostfixCount 11
 Edge
 Face
 Vertex
@@ -839,7 +839,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 85 3
+ElementMap 1 86 3
 
 Edge
 
@@ -950,7 +950,7 @@ $#ad3a.b 0
 
 EndMap
 
-ElementMap 2 105 3
+ElementMap 2 106 3
 
 Edge
 

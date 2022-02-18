@@ -19,8 +19,8 @@
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
-    <Property name="Group" type="App::PropertyLinkList" status="1">
-      <LinkList count="130">
+    <Property name="Group" type="App::PropertyLinkList">
+      <LinkList count="131">
         <Link value="Solid"/>
         <Link value="Part"/>
         <Link value="Part001"/>
@@ -151,6 +151,7 @@
         <Link value="Screw"/>
         <Link value="Group006"/>
         <Link value="Body004"/>
+        <Link value="Body005"/>
       </LinkList>
     </Property>
     <Property name="Id" type="App::PropertyString">
@@ -195,7 +196,7 @@
       <Bool value="true"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
-      <LinkList count="9">
+      <LinkList count="10">
         <Link value="Solid"/>
         <Link value="Part111"/>
         <Link value="Group"/>
@@ -205,6 +206,7 @@
         <Link value="Body001"/>
         <Link value="Group006"/>
         <Link value="Body004"/>
+        <Link value="Body005"/>
       </LinkList>
     </Property>
     <Property name="_GroupVersion" type="App::PropertyInteger" status="218103808">

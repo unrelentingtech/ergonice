@@ -109,7 +109,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="8">
 <![CDATA[
-140 PostfixCount 11
+142 PostfixCount 11
 Edge
 Face
 Vertex
@@ -124,7 +124,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 140 3
+ElementMap 1 142 3
 
 Edge
 
@@ -211,7 +211,7 @@ EndMap
     <Property name="Label2" type="App::PropertyString" status="128">
       <String value=""/>
     </Property>
-    <Property name="Length" type="App::PropertyLength" status="1">
+    <Property name="Length" type="App::PropertyLength">
       <Float value="7.5"/>
     </Property>
     <Property name="Length2" type="App::PropertyLength">
@@ -236,7 +236,7 @@ EndMap
       <LinkSub value="Sketch021" count="0">
       </LinkSub>
     </Property>
-    <Property name="ReferenceAxis" type="App::PropertyLinkSub" status="1">
+    <Property name="ReferenceAxis" type="App::PropertyLinkSub">
       <LinkSub value="" count="0">
       </LinkSub>
     </Property>
@@ -354,7 +354,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="8">
 <![CDATA[
-140 PostfixCount 11
+142 PostfixCount 11
 Edge
 Face
 Vertex
@@ -369,7 +369,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 140 3
+ElementMap 1 142 3
 
 Edge
 
@@ -438,7 +438,7 @@ TShapes 0
     <Property name="Type" type="App::PropertyEnumeration">
       <Integer value="0"/>
     </Property>
-    <Property name="UpToFace" type="App::PropertyLinkSub" status="1">
+    <Property name="UpToFace" type="App::PropertyLinkSub">
       <LinkSub value="" count="0">
       </LinkSub>
     </Property>
@@ -448,7 +448,7 @@ TShapes 0
     <Property name="UsePipeForDraft" type="App::PropertyBool">
       <Bool value="false"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

@@ -654,7 +654,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="100">
 <![CDATA[
-103 PostfixCount 11
+104 PostfixCount 11
 Edge
 Face
 Vertex
@@ -669,7 +669,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 103 3
+ElementMap 1 104 3
 
 Edge
 
@@ -1530,7 +1530,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="100">
 <![CDATA[
-103 PostfixCount 11
+104 PostfixCount 11
 Edge
 Face
 Vertex
@@ -1545,7 +1545,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 103 3
+ElementMap 1 104 3
 
 Edge
 
@@ -1702,7 +1702,7 @@ TShapes 0
     <Property name="UsePipeForDraft" type="App::PropertyBool">
       <Bool value="false"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">
