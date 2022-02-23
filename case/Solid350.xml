@@ -45382,7 +45382,7 @@ So
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="1412"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="true"/>
     </Property>
   </Properties>

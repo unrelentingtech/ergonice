@@ -23,7 +23,7 @@
         <Constrain Name="" Type="1" Value="0" First="0" FirstPos="3" Second="-3" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="1" Value="0" First="1" FirstPos="3" Second="-4" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="12" Value="0" First="0" FirstPos="0" Second="1" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
-        <Constrain Name="" Type="18" Value="3.8" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="4.213544845581055" LabelPosition="0.2617993950843811" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="18" Value="3.9" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="4.213544845581055" LabelPosition="0.2617993950843811" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
       </ConstraintList>
     </Property>
     <Property name="Exports" type="App::PropertyLinkListHidden" status="67108864">
@@ -34,7 +34,7 @@
       <ExpressionEngine count="1" cdata="1">
         <Expressions><![CDATA[
 0:.Constraints[3]
-0:<<LT Tenting Mount Holes Sketch>>.Constraints.HoleDia - 0.4mm
+0:<<LT Tenting Mount Holes Sketch>>.Constraints.HoleDia - 0.3mm
 0:
 
 ]]>
@@ -64,7 +64,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Import019.;#ea0b;:H-173f,E;:H173f,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="34.9035" CenterY="-25.00000000000001" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.1"/>
+          <Circle CenterX="34.9035" CenterY="-24.99999999999999" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.1"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="2" ref="Import019.;#ea0c;:H-173f,E;:H173f,E" migrated="1">
@@ -72,7 +72,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Import019.;#ea0c;:H-173f,E;:H173f,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="34.9035" CenterY="24.99999999999999" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.1"/>
+          <Circle CenterX="34.9035" CenterY="25.00000000000001" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.1"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -92,14 +92,14 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="3" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="34.9035" CenterY="-25.00000000000001" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.9"/>
+          <Circle CenterX="34.9035" CenterY="-25.00000000000001" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.95"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="4" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="4" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="34.9035" CenterY="24.99999999999999" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.9"/>
+          <Circle CenterX="34.9035" CenterY="24.99999999999999" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.95"/>
           <Construction value="0"/>
         </Geometry>
       </GeometryList>
@@ -120,7 +120,7 @@
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="0" Py="-7.993605777301138e-15" Pz="-12.00000000000002" Q0="0" Q1="3.33066907387547e-16" Q2="1" Q3="0" A="3.141592653589793" Ox="0" Oy="3.33066907387547e-16" Oz="1"/>
+      <PropertyPlacement Px="0" Py="5.329070518200765e-15" Pz="-12.00000000000002" Q0="0" Q1="-2.220446049250315e-16" Q2="1" Q3="0" A="3.141592653589793" Ox="0" Oy="-2.220446049250315e-16" Oz="1"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -130,16 +130,16 @@ CASCADE Topology V1, (c) Matra-Datavision
 Locations 11
 1
              -1               0               0               0 
-              0              -1 6.66133814775094e-16 -7.99360577730114e-15 
-              0 6.66133814775094e-16               1             -12 
+              0              -1 -4.44089209850063e-16 5.32907051820076e-15 
+              0 -4.44089209850063e-16               1             -12 
 1
               1               0               0               0 
-              0 -2.22044604925031e-16              -1               0 
-              0               1 -2.22044604925031e-16               0 
+              0 -4.44089209850063e-16              -1               0 
+              0               1 -4.44089209850063e-16               0 
 1
              -1               0               0               0 
-              0              -1 6.66133814775094e-16 -7.99360577730114e-15 
-              0 6.66133814775094e-16               1             -12 
+              0              -1 -4.44089209850063e-16 5.32907051820076e-15 
+              0 -4.44089209850063e-16               1             -12 
 1
               1               0               0               0 
               0               1               0               0 
@@ -148,7 +148,7 @@ Locations 11
 1
               1               0               0               0 
               0               1               0               4 
-              0               0               1 -3.5527136788005e-15 
+              0               0               1 1.57772181044202e-30 
 2  6 -1 2 1 3 -1 4 -1 0
 2  3 -1 4 -1 0
 1
@@ -157,41 +157,41 @@ Locations 11
               0               0               1               0 
 1
               1               0               0               0 
-              0 2.22044604925031e-16              -1               0 
-              0               1 2.22044604925031e-16               0 
+              0 -4.44089209850063e-16              -1               0 
+              0               1 -4.44089209850063e-16               0 
 2  9 1 10 1 3 -1 4 -1 0
 Curve2ds 8
 1 0 0 1 0 
 1 0 -4 1 0 
-2 25.000000000000004 7.1054273576010019e-15 0 1 -1 0 1.8999999999999986
-2 4.0999999999999943 -17.499999999999986 -1 -0 0 -1 1.8999999999999986
+2 25 -7.1054273576010019e-15 0 1 -1 0 1.9500000000000028
+2 4.1000000000000014 -17.499999999999989 -1 0 -0 -1 1.9500000000000028
 1 0 0 1 0 
 1 0 -4 1 0 
-2 -24.999999999999996 7.1054273576010019e-15 0 1 -1 0 1.8999999999999986
-2 4.0999999999999943 -67.5 -1 -0 0 -1 1.8999999999999986
+2 -25 -7.1054273576010019e-15 0 1 -1 0 1.9500000000000028
+2 4.1000000000000014 -67.499999999999986 -1 0 -0 -1 1.9500000000000028
 Curves 2
-2 34.903500000000001 -25.000000000000007 0 0 0 1 1 0 -0 -0 1 0 1.9000000000000001
-2 34.903500000000001 24.999999999999993 0 0 0 1 1 0 -0 -0 1 0 1.9000000000000001
+2 34.903500000000001 -25.000000000000011 0 0 0 1 1 0 0 0 1 0 1.9500000000000002
+2 34.903500000000001 24.999999999999989 0 0 0 1 1 0 0 0 1 0 1.9500000000000002
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 5
-2 -34.903500000000001 -12.000000000000039 -24.999999999999996 -0 -1 8.8817841970012523e-16 -1 0 0 0 8.8817841970012523e-16 1 1.9000000000000001
-1 -34.903499999999994 -1.799263332288714e-15 -12.000000000000016 2.1743325596829024e-31 6.6281788374559784e-16 1 0 1 -6.6281788374559784e-16 -1 1.4411865057681701e-46 2.1743325596829024e-31 
-1 -39.003500000000003 -12.000000000000037 -42.499999999999993 0 1 -4.4408920985006262e-16 1 0 0 0 -4.4408920985006262e-16 -1 
-2 -34.903500000000001 -11.999999999999995 25.000000000000004 -0 -1 8.8817841970012523e-16 -1 0 0 0 8.8817841970012523e-16 1 1.9000000000000001
-1 -34.903499999999994 -1.799263332288714e-15 -12.000000000000016 2.1743325596829024e-31 6.6281788374559784e-16 1 0 1 -6.6281788374559784e-16 -1 1.4411865057681701e-46 2.1743325596829024e-31 
+2 -34.903500000000001 -12.00000000000002 -25.000000000000011 -0 -1 -3.944304526105059e-31 -1 0 0 0 -3.944304526105059e-31 1 1.9500000000000002
+1 -34.903500000000008 1.8933786450545841e-14 -12.000000000000021 -6.3620603357732083e-30 -4.5024067214513573e-16 1 0 1 4.5024067214513573e-16 -1 2.8644583218064375e-45 -6.3620603357732083e-30 
+1 -39.003500000000003 -12.00000000000002 -42.5 0 1 0 1 0 0 0 0 -1 
+2 -34.903500000000001 -12.00000000000002 24.999999999999989 -0 -1 -3.944304526105059e-31 -1 0 0 0 -3.944304526105059e-31 1 1.9500000000000002
+1 -34.903500000000008 1.8933786450545841e-14 -12.000000000000021 -6.3620603357732083e-30 -4.5024067214513573e-16 1 0 1 4.5024067214513573e-16 -1 2.8644583218064375e-45 -6.3620603357732083e-30 
 Triangulations 0
 
 TShapes 7
 Ve
-1.00000001776357e-07
-36.8035 -25 0
+1e-07
+36.8535 -25 0
 0 0
 
 0101101
 *
 Ed
- 1.00000001776357e-07 1 1 0
+ 1e-07 1 1 0
 1  1 0 0 6.28318530717959
 2  1 1 5 0 6.28318530717959
 2  2 1 7 0 6.28318530717959
@@ -206,14 +206,14 @@ Wi
 0101100
 +6 0 *
 Ve
-1.00000001776357e-07
-36.8035 25 0
+1e-07
+36.8535 25 0
 0 0
 
 0101101
 *
 Ed
- 1.00000001776357e-07 1 1 0
+ 1e-07 1 1 0
 1  2 0 0 6.28318530717959
 2  5 4 5 0 6.28318530717959
 2  6 4 7 0 6.28318530717959

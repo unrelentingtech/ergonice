@@ -14,7 +14,7 @@
       <String value=""/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388616">
-      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.5000000000000001" Q1="0.5000000000000001" Q2="0.5000000000000001" Q3="-0.4999999999999998" A="4.188790204786391" Ox="0.5773502691896258" Oy="0.5773502691896258" Oz="0.5773502691896258"/>
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.5" Q1="0.5" Q2="0.5" Q3="-0.5000000000000002" A="4.188790204786391" Ox="0.5773502691896258" Oy="0.5773502691896258" Oz="0.5773502691896258"/>
     </Property>
     <Property name="Role" type="App::PropertyString" status="16777216">
       <String value="Z_Axis"/>
@@ -22,7 +22,7 @@
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="2978"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="true"/>
     </Property>
   </Properties>

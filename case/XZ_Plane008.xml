@@ -14,7 +14,7 @@
       <String value=""/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388616">
-      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.7071067811865475" Q1="0" Q2="0" Q3="0.7071067811865475" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.7071067811865477" Q1="0" Q2="0" Q3="0.7071067811865474" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
     </Property>
     <Property name="Role" type="App::PropertyString" status="16777216">
       <String value="XZ_Plane"/>

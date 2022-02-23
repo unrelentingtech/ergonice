@@ -54,7 +54,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Import016.;Edge521;:H1321,E" Flags="0"/>
           </GeoExtensions>
-          <ArcOfCircle CenterX="-142.875" CenterY="35.71875" CenterZ="0" NormalX="5.337293624773881e-33" NormalY="-3.081487911056488e-33" NormalZ="-1" AngleXU="-2.617993877984579" Radius="2.999999999988" StartAngle="0" EndAngle="2.094395102379429"/>
+          <ArcOfCircle CenterX="-142.875" CenterY="35.71875" CenterZ="0" NormalX="5.337293624773878e-33" NormalY="-3.081487911056486e-33" NormalZ="-1" AngleXU="-2.617993877984579" Radius="2.999999999988" StartAngle="0" EndAngle="2.094395102379429"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
